@@ -19,7 +19,6 @@ ul{
 Welcome to to the website of Security, Networking, and Mobile Systems Research (SNMS) laboratory (@ 2153EB) in the Department of Computer Science and Engineering at Michigan State University (MSU). Our research interests are in the broad areas of security, IoT, mobile systems, and wireless networking, with a recent focus on innovating 5G/4G mobile network architecture/protocol/technologies, cellular/Wi-Fi IoT, secure cloud computing/services, blockchain technologies.
 
 \
-\
 The SNMS laboratory is led by [Dr. Guan-Hua (Scott) Tu](https://www.cse.msu.edu/~ghtu/) at MSU.
 
 --- 

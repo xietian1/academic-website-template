@@ -45,11 +45,11 @@ Home Digital Voice Assistants (HDVAs) are getting popular in recent years. Users
   
     <ul class="subitem">
   		<li>Alexa service model</li>
-  			<img src="{{site.baseurl}}assets/images/projects/Alexa-service-model.png" width="650" />
+  			<img src="{{site.baseurl}}/assets/images/projects/Alexa-service-model.png" width="650" />
 			<li>VSButton Design</li>
-  			<img src="{{site.baseurl}}assets/images/projects/VSButton.png" width="650"/>  		
+  			<img src="{{site.baseurl}}/assets/images/projects/VSButton.png" width="650"/>  		
 			<li>Indoor and outdoor CSI variations.</li>
-  			<img src="{{site.baseurl}}assets/images/projects/Indoor-outdoor-CSI.png" width="650" /> 
+  			<img src="{{site.baseurl}}/assets/images/projects/Indoor-outdoor-CSI.png" width="650" /> 
 		</ul>
   
   

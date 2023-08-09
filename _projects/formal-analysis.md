@@ -54,17 +54,17 @@ pre{
 	
     <ul class="subitem">
   	<li>CNetVerifier Overview</li>
-  		<img src="{{site.baseurl}}assets/images/projects/CNetVerifier.jpg" width="650" height="300" />  		
+  		<img src="{{site.baseurl}}/assets/images/projects/CNetVerifier.jpg" width="650" height="300" />  		
 		</ul>
   
   <ul class="subitem">
   	<li>Cellular network control-plane protocol interaction</li>
-  		<img src="{{site.baseurl}}assets/images/projects/protocol-interaction.png" width="650" height="190" />  		
+  		<img src="{{site.baseurl}}/assets/images/projects/protocol-interaction.png" width="650" height="190" />  		
 		</ul>  
 
   <ul class="subitem">
   	<li>Finding summary</li>
-  		<img src="{{site.baseurl}}assets/images/projects/findings.png" width="650" height="190"/>  		
+  		<img src="{{site.baseurl}}/assets/images/projects/findings.png" width="650" height="190"/>  		
 		</ul>
 
   </ul>
