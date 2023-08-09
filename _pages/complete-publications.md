@@ -2,7 +2,7 @@
 title: "Publications"
 layout: gridlay
 sitemap: false
-permalink: /publications/
+permalink: /complete-publications/
 ---
 
 <style>
@@ -28,16 +28,14 @@ pre{
 
 <!-- Start -->
 
-## Selected Publications
-
-<a href="/complete-publications">full list</a>
+## Complete Publications
 
 <div class="container">
 ### Journal/Magazine Publications
 <div style="display: inline-block">
 {% for entry in site.data.papers-grants %}
 <ul>
-{% if entry.type == "journal" and entry.selected %}
+{% if entry.type == "journal"%}
 <li><b>[{{ entry.short-name }}]</b> {{ entry.contents }}</li> 
 
 {% if entry.pdf %}
@@ -76,7 +74,7 @@ function toggleBib{{entry.title}}(parameter) {
 <div style="display: inline-block">
 {% for entry in site.data.papers-grants %}
 <ul>
-{% if entry.type == "conference" and entry.selected %}
+{% if entry.type == "conference"%}
 <li><b>[{{ entry.short-name }}]</b> {{ entry.contents }}</li> 
 
 {% if entry.pdf %}
@@ -117,7 +115,7 @@ function toggleBib{{entry.title}}(parameter) {
 <div style="display: inline-block">
 <ol>
 {% for entry in site.data.papers-grants %}
-{% if entry.type == "grant" and entry.selected %}
+{% if entry.type == "grant"%}
 <li>{{ entry.contents }}</li> 
 {% endif %}
 

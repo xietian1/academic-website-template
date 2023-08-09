@@ -4,16 +4,53 @@ layout: homelay
 sitemap: false
 permalink: /
 ---
+<!-- refine ul for smaller font -->
+<style>
+ol, 
+ul{
+    padding-left: 0.5rem;
+    margin-top: 0;
+    margin-bottom: 0.4rem;
+}
+</style>
 
-### Welcome!
+### Welcome to SNMS Lab!
 
-Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
-It plays a crucial role in our understanding of the fundamental laws of the universe and the fundamental particles that make up all matter.
-Research in theoretical physics helps us to make predictions about how the universe works and to test these predictions through experiments.
-It also helps us to understand the fundamental principles that govern the behavior of matter and energy, and to explore the limits of our current knowledge.
-Theoretical physics helps us to make progress in a wide range of fields, including cosmology, particle physics, and quantum mechanics, and it has led to many important discoveries and technological innovations.
+Welcome to to the website of Security, Networking, and Mobile Systems Research (SNMS) laboratory (@ 2153EB) in the Department of Computer Science and Engineering at Michigan State University (MSU). Our research interests are in the broad areas of security, IoT, mobile systems, and wireless networking, with a recent focus on innovating 5G/4G mobile network architecture/protocol/technologies, cellular/Wi-Fi IoT, secure cloud computing/services, blockchain technologies.
 
-<div class="container">
+\
+\
+The SNMS laboratory is led by [Dr. Guan-Hua (Scott) Tu](https://www.cse.msu.edu/~ghtu/) at MSU.
+
+--- 
+
+<h4><font color="darkred">Recruiting</font></h4>
+<p>
+I am seeking highly motivated Ph.D., master, and undergraduate students to join my research team and work on innovative topics related to wireless/cellular networks, mobile/embedded systems, and network security. My current research projects include securing cellular networks (5G and beyond), Wi-Fi, mobile devices, and IoT. Detailed information on the SNMS lab's short- and medium-term research objectives can be found in our recent publications and NSF projects. As a member of the SNMS lab, you will have the opportunity to learn and apply a range of interdisciplinary technologies, including formal methodologies, machine learning, data mining, computer vision, and networking, to solve various research issues such as security vulnerabilities or performance issues. If you are interested in working with me, please email me your CV, transcripts, publications (if applicable), and research interests. I strongly encourage students with a strong background in formal methodologies (such as model checking) to contact me. In addition, visiting/exchange scholars or undergraduate students are welcome to contact me.
+</p>	
+
+
+---
+
+#### Recent News
+
+<div class="container-fluid" markdown="0">
+
+<div id="recentnews" style="display: inline-block">
+{% for article in site.data.news limit:10 %}
+<ul>
+    <li>[{{ article.date }}] {{ article.content }}</li> 
+</ul>
+{% endfor %}
+</div>
+<br>
+
+
+<a href="/allnews"><button class="btn btn-primary btm-sm">See All News</button></a>
+<br>
+</div>
+
+<!-- <div class="container">
 <div class="row">
 <center>
 <img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" width="100%"/><br/>
@@ -22,12 +59,5 @@ Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
 </center>
 </div>
 </div>
-<br/>
-
-### About me
-
-I am a physicist working in the field of quantum mechanics and quantum electrodynamics.
-I received my undergraduate degree in physics from the Massachusetts Institute of Technology (MIT) in 1939 and went on to earn my PhD from Princeton University in 1942.
-After completing my doctoral studies, I worked on the Manhattan Project, where I helped develop the first atomic bombs.
-After the war, I returned to academia, holding teaching and research positions at Cornell and now the California Institute of Technology.
+<br/> -->
 

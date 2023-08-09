@@ -1,5 +1,5 @@
 <div>
-{% for member in site.data.pi %}
+<!-- {% for member in site.data.pi %}
 <div class="jumbotron">
    <center>
    <a href="{{site.url}}{{site.baseurl}}/about"><img src="{{site.url}}{{site.baseurl}}/images/{{ member.photo }}" width="60%" style="block:inline; margin-left:auto; margin-right:auto; margin-bottom:5px;"/></a>
@@ -49,22 +49,12 @@
   <li> {{ member.education2short | replace: "-","&#8211;"}} </li>
   <li> {{ member.education3short | replace: "-","&#8211;"}} </li>
   <li> {{ member.education4short | replace: "-","&#8211;"}} </li>
-  <!-- <li> {{ member.education5short | replace: "-","&#8211;"}} </li> -->
   <li> {{ member.education6short | replace: "-","&#8211;"}} </li>
   {% endif %}
   </ul>
 </div>
 {% endfor %}
-</div>
+</div>  -->
 
-<div class="jumbotron">
-  <h4>News</h4>
-
-  {% for article in site.data.news limit:3 %}
-  <b>{{ article.date }}</b>
-    <p>{{ article.headline }}</p>
-  {% endfor %}
-  
-  <h5><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h5>
 
 </div>

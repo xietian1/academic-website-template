@@ -1,24 +1,101 @@
-- name: Student Here
-  location: Univesity Here
-  degree: Ph.D. 
-  year: 2022
+# data struct (* is must have):
+#   name*: Name
+#   group*: type (["PI"] or ["PhD"] or ["BS"] or ["MS"] or ["Visiting"] or ["Alumni-Phd"], or "["Alumni-MS"]" or ["Alumni-BS"])
+#   institution*: School Name
+#   bio*: 
+#       - role*: up-to-date role 
+#       - start: Semester/Start year 
+#       - end:  Semester/End year
+#       - startData: YYYY-MM (it matters for PhD students!)
+#       - endData: YYYY-MM (it matters for alumni students!)
+#       - content: e.g., co-advised
+#   photo: photo file name 
+#   social:
+#       - scholar: web path
+#       - website: web path
+#   
 
-- name: Student Here
-  location: Univesity Here
-  degree: Ph.D. 
-  year: 2021
+- name: Guan-Hua Tu
+  institution: Michigan State Univesity
+  groups: ["PI"]
+  social:
+    scholar: https://scholar.google.com/citations?user=SqZmO1IAAAAJ
+    website: https://www.cse.msu.edu/~ghtu/
+  bio:
+    role: Assistant Professor
+  photo: Tu_GuanHua_cicle.jpg
 
-- name: Student Here
-  location: Univesity Here
-  degree: Ph.D. 
-  year: 2020
+- name: Xinyu Lei
+  institution: Michigan Technological University
+  groups: ["Alumni-PhD"]
+  bio: 
+    role: Assistant Professor
+    start: Spring 2016
+    end: Spring 2021
+    endDate: 2021-05
+  photo: rock.jpg
+  social:
+    scholar: https://scholar.google.com/citations?user=SqZmO1IAAAAJ
+    website: https://pages.mtu.edu/~xinyulei/
 
-- name: Student Here
-  location: Univesity Here
-  degree: M.S.
-  year: 2020
+- name: Tian Xie
+  institution: Utah State University
+  groups: ["Alumni-PhD"]
+  bio: 
+    role: Assistant Professor
+    start: Spring 2017
+    end: Spring 2023
+    endDate: 2023-05
+  photo: rock.jpg
+  social:
+    website: https://xietian1.github.io/
 
-- name: Student Here
-  location: Univesity Here
-  degree: B.S.
-  year: 2020
+- name: Sihan Wang
+  institution: Michigan State Univesity
+  groups: ["PhD"]
+  bio: 
+    role: PhD
+    start: Spring 2019
+    startDate: 2019-01
+    semester: Spring
+  photo: sihan-wang.jfif
+  social:
+    website: http://www.cse.msu.edu/~wangsih3/
+
+
+- name: Yiwen Hu
+  institution: Michigan State Univesity
+  groups: ["PhD"]
+  bio: 
+    role: PhD
+    start: Fall 2018
+    startDate: 2018-09
+    content: Co-advised with Prof. Li Xiao
+  
+
+- name: Jingwen Shi
+  institution: Michigan State Univesity
+  groups: ["PhD"]
+  bio: 
+    role: PhD
+    start: Fall 2019
+    startDate: 2019-09
+    semester: Fall
+
+- name: Min-Yue Chen
+  institution: Michigan State Univesity
+  groups: ["PhD"]
+  bio: 
+    role: PhD
+    start: Fall 2021
+    startDate: 2021-09
+    semester: Fall
+
+- name: Haitian Yan
+  institution: Michigan State Univesity
+  groups: ["PhD"]
+  bio: 
+    role: PhD
+    start: Fall 2021
+    startDate: 2021-09
+    semester: Fall

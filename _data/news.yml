@@ -1,6 +1,131 @@
-- date: 1 January, 1941
-  headline: "Example news here"
+- date: Apr. 2023
+  content: My Ph.D. student <a href="https://www.usu.edu/cs/directory/faculty/xie-tian">Tian Xie</a> will join the Department of Computer Sciecne at Utah State University as a Tenure-Track Assistant Professor this Fall. Congratulations.
 
-- date: 1 January, 1940
-  headline: "Example news here"
+- date: Apr. 2023
+  content: Receive <b><font color="darkred">$1.2M NSF SaTC grant (<a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2246050">CNS-2246050</a> and <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2246051">CNS-2246051</a>, lead PI)</font></b> to support our research on Safeguarding Next-Generation Emergency Services (NG-9-1-1) over Cellular Networks.
 
+- date: Mar. 2023
+  content: I am invited to serve on the IEEE ICNP'23 TPC.
+
+- date: Mar. 2023
+  content: I am invited to serve as a Publication Chair at IEEE CNS'23.
+
+- date: Feb. 2023
+  content: I am invited to serve on the IEEE CNS'23 TPC.
+
+- date: Dec. 2022
+  content: Our 911 security paper is invited for <b><font color="darkred">ACM GetMobile Research Highlights</font></b>.
+
+- date: Oct. 2022
+  content: Our 911 security paper received the <b><font color="darkred">Best Community Paper Award Runner-Up at ACM MobiCom'22</font></b>; the Best Community Paper Award is considered to contribute the most to the broader research community by making public real data, software, platform, or other artifacts.
+
+- date: Aug. 2022
+  content: Our IMS security paper is accepted by IEEE/ACM Transactions on Networking.
+
+- date: Aug. 2022
+  content: Our cellular emergency service (9-1-1) security paper is accepted by ACM MobiCom'22.
+
+- date: Apr. 2022
+  content: I am invited to serve on the IEEE INFOCOM'23 TPC.
+
+- date: Apr. 2022
+  content: I am invited to serve on the IEEE CNS'22 TPC.
+
+- date: Jan. 2022
+  content: Our MPKIX (Mobile-assisted PKIX) paper is accepted by IEEE Transactions on Mobile Computing.
+
+- date: Oct. 2021
+  content: Our wireless human walking tracking paper is accepted by IEEE Internet of Thing Journal.
+
+- date: Aug. 2021
+  content: Our cellular IoT security apper is accepted by ACM MobiCom'21.
+
+- date: Jul. 2021
+  content: My Ph.D. student <a href="https://pages.mtu.edu/~xinyulei/">Xinyu Lei</a> joins the Department of Computer Science at Michigan Technological University (Michgian Tech) as a Tenure-Track Assistant Professor. Congratulations.
+
+- date: Jun. 2021
+  content: I am invited to serve on MobiCom'22 TPC.
+
+- date: Dec. 2020
+  content: Two Bitcoin security papers are accepted by ACM CodaSpy'21. 
+
+- date: Oct. 2020
+  content: I am invited to serve on the IEEE VNC'21 TPC and IFIP Networking'21 TPC.
+
+- date: Aug. 2020
+  content: I am invited to serve on the IEEE BigData'21 TPC.
+
+- date: Jul. 2020
+  content: I am invited to serve on MobiCom'21 TPC.
+
+- date: May 2020
+  content: Our Wi-Fi Calling (VoWiFi) security paper is accepted by IEEE Transactions on Mobile Computing.
+
+- date: Apr. 2020
+  content: Our Wi-Fi IoT security paper is accepted by ACM MobiSys'20.
+
+- date: Mar. 2020
+  content: Our cellular IoT security paper is accepted by IEEE Transactions on Mobile Computing.
+
+- date: Mar. 2020
+  content: Our cloud security paper is accepted by IEEE CNS'20.
+
+- date: Dec. 2019
+  content: Our 4G call system security paper is accepted by ACM Mobicom'20.
+
+- date: Nov. 2019
+  content: Our Voice over Wi-Fi security research receives a <b><font color="darkred">Google Security Reward</font></b>.
+- date: Sep. 2019
+  content: I am invited to serve on the IEEE VNC'19 TPC.
+- date: Aug. 2019
+  content: I am invited to serve on the IEEE BigData'19 TPC.
+- date: Jun. 2019
+  content: I am invited to serve on the IFIP Networking'20 TPC.
+- date: Mar. 2019
+  content: I am invited to serve on the NSF SaTC panel.
+- date: Feb. 2019
+  content: One paper is accepted by IEEE ICDE'19.
+- date: Oct. 2018
+  content: I am invited to serve in the IFIP Networking'19 TPC.
+- date: Sep. 2018
+  content: I am invited to serve on the IEEE ICDCS'19 TPC.
+- date: Aug. 2018
+  content: Receive <b><font color="darkred">an NSF award (<a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1815636">CNS-1815636</a>, leading PI)</font></b> to support our research on side-channel attacks. Thanks NSF!
+- date: Aug. 2018
+  content: Receive <b><font color="darkred">an NSF award (<a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1814551">CNS-1814551</a>, leading PI)</font></b> to support our research on cellular IoT security. Thanks NSF!
+- date: May 2018
+  content: Our Wi-Fi Calling paper won <a href="cns2018-BestPaper.jpg"><b><font color="darkred">IEEE CNS'18 Best Paper Award</font></b></a> and <b><font color="darkred">Facebook Security Award</font></b>.	
+- date: Aug. 2018
+  content: Our paper entitled "Device-Customized Mobile Network Access on Commodity Smartphones" is accepted by ACM/IEEE Transaction on Networking.		
+- date: Jun. 2018
+  content: I am invited to serve on the IEEE BigData'18 TPC.
+- date: Apr. 2018
+  content: Congratulations to Tian for his travel grant to IEEE CNS'18.
+- date: Apr. 2018
+  content: 1 paper is accepted by USENIX HotEdge'18.
+- date: Mar. 2018
+  content: with Prof. Mi Zhang, I am co-chairing the 1st ACM Workshop on Mobile IoT Sensing, Security, and Privacy (<a href="https://www.sigmobile.org/mobihoc/2018/workshop-iot-sensing.html">Mobile IoT SSP</a>) in conjunction with ACM MobiHoc 2018.
+- date: Feb. 2018
+  content: 2 papers are accepted by IEEE CNS'18, especial congratulations to <a href="http://www.cse.msu.edu/~leixinyu/">Xinyu Lei</a> for his first paper at NSMS.	
+- date: Jan. 2018
+  content: 2 papers are accepted by IEEE ICC'18, especial congratulations to <a href="http://www.cse.msu.edu/~xietian1/">Tian Xie</a> for his first paper at NSMS.
+- date: Nov. 2017
+  content:  I am invited to serve on the IEEE CNS'18 TPC.
+- date: Jun. 2017
+  content:  I am invited to serve on the IEEE ICCC'17 and NetV workshop with VTC-2017-Fall TPC.
+- date: May 2017
+  content:  I am invited to serve on the external for IEEE CNS'17 TPC.
+- date: Apr. 2017
+  content:  I am invited to serve on the ACM WiNTECH'17 TPC.
+- date: Mar. 2017
+  content:  I am invited to serve on the IEEE VTC'17 TPC.
+- date: Jan. 2017
+  content:  Our IMS-based SMS security research receives a <b><font color="darkred">Facebook Security Award</font></b>.
+- date: Jan. 2017
+  content:  I am invited to serve on the ACM WearSys'17 TPC.
+- date: Dec. 2016
+  content:  I am invited to serve on the IEEE DSC'17 TPC.
+- date: Oct. 2016
+  content:  I give the presentation of our SMS security work at ACM CCS'16 (Vienna, Austria)
+- date: Aug. 2016
+  content:  Our SMS security paper has been accepted by ACM CCS'16.
