@@ -2,7 +2,7 @@
 title: "News"
 layout: textlay
 sitemap: false
-permalink: /news.html
+permalink: /news/
 ---
 <!-- refine ul for smaller font -->
 <style>

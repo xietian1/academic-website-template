@@ -46,7 +46,7 @@ I am seeking highly motivated Ph.D., master, and undergraduate students to join 
 <br>
 
 
-<a href="/allnews"><button class="btn btn-primary btm-sm">See All News</button></a>
+<a href="{{site.baseurl}}/news"><button class="btn btn-primary btm-sm">See All News</button></a>
 <br>
 </div>
 

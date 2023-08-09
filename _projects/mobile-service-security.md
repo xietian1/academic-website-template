@@ -50,23 +50,23 @@ pre{
 	
     <ul class="subitem">
   	<li>WiCA (WiFi Calling Analyzer) (<u>Discover six WiFi calling events</u>)</li>
-  		<img src="/assets/images/projects/wica-design.png" alt="WiCA" width="650" />
+  		<img src="{{site.baseurl}}assets/images/projects/wica-design.png" alt="WiCA" width="650" />
   	<li>Six WiFi calling events	(I: Activating Wi-Fi calling service, II: Receiving an incoming call, III: Dialing an outgoing call, IV: Sending a text, V: Receiving a text, VI: Deactivating Wi-Fi calling service)</li>	
-  		<img src="/assets/images/projects/six-wifi-calling-events.png" alt="Six Events" width="650" />
+  		<img src="{{site.baseurl}}assets/images/projects/six-wifi-calling-events.png" alt="Six Events" width="650" />
   		<br>
   		<div class="jumbotron">
-			<b>Demo 1: </b><a href="/assets/images/projects/Default-WiFi-calling-security-mechanism-WiFi2Cellular-Switch.mpg">[Default secuirty defense, WiFi2Cellular-Switch]</a>      
+			<b>Demo 1: </b><a href="{{site.baseurl}}assets/images/projects/Default-WiFi-calling-security-mechanism-WiFi2Cellular-Switch.mpg">[Default secuirty defense, WiFi2Cellular-Switch]</a>      
 			<br>
-			<b>Demo 2: </b><a href="/assets/images/projects/Annoying-Incoming-Attack-Drop-180-Ringing.mp4">[Annoying incoming call attack]</a> <br>
-			<b>Demo 3: </b><a href="/assets/images/projects/Telephony-Harassment-Denial-of-Service-Attack.mp4">[THDoS Telephony Harassment/DoS attack]</a>    	 
+			<b>Demo 2: </b><a href="{{site.baseurl}}assets/images/projects/Annoying-Incoming-Attack-Drop-180-Ringing.mp4">[Annoying incoming call attack]</a> <br>
+			<b>Demo 3: </b><a href="{{site.baseurl}}assets/images/projects/Telephony-Harassment-Denial-of-Service-Attack.mp4">[THDoS Telephony Harassment/DoS attack]</a>    	 
   		</div>
   	
   	<li><b>Media report</b> </li>
   		MSU Today: <a href="https://msutoday.msu.edu/news/2018/protect-your-phone-data-from-grinches/">
-  			<img src="/assets/images/projects/wifi-calling-news.png" width="750" height="300"/>
+  			<img src="{{site.baseurl}}assets/images/projects/wifi-calling-news.png" width="750" height="300"/>
   		</a><br>
   		Futurity:  <a href="https://www.futurity.org/phone-hackers-wifi-shopping-1924842-2/">
-  			<img src="/assets/images/projects/wifi-calling-news2.png" width="750" height="300"/>
+  			<img src="{{site.baseurl}}assets/images/projects/wifi-calling-news2.png" width="750" height="300"/>
   		</a>	
   		   
 		</ul>
@@ -83,10 +83,10 @@ pre{
   
     <ul class="subitem">
   	<li>Compromise Facebook accounts without passwords</li>
-  		<div class="jumbotron"><b>Demo 1: </b><a href="/assets/images/projects/fb-update-status.mpg">[Update the victim's FB status]</a>      
+  		<div class="jumbotron"><b>Demo 1: </b><a href="{{site.baseurl}}assets/images/projects/fb-update-status.mpg">[Update the victim's FB status]</a>      
       <br>
-      <b>Demo 2: </b><a href="/assets/images/projects/fb-like-page.mpg">[Like a page on behalf of a victim]</a> <br>
-			<b>Demo 3: </b><a href="/assets/images/projects/fb-add-friend.mpg">[Add a person to a victim's friend list]</a>    	 
+      <b>Demo 2: </b><a href="{{site.baseurl}}assets/images/projects/fb-like-page.mpg">[Like a page on behalf of a victim]</a> <br>
+			<b>Demo 3: </b><a href="{{site.baseurl}}assets/images/projects/fb-add-friend.mpg">[Add a person to a victim's friend list]</a>    	 
   		</div>   
 		</ul>
 	
@@ -116,21 +116,21 @@ pre{
   
   <ul class="subitem">
   	<li>Ping-Pong Attack (<u>Tear down all TCP connections within few minutes and largely downgrade UDP throughput</u>)</li>
-  		<img src="/assets/images/projects/CNS-attack.jpg" alt="Ping-Pong Attack" width="650" />
+  		<img src="{{site.baseurl}}assets/images/projects/CNS-attack.jpg" alt="Ping-Pong Attack" width="650" />
   	<li>Free-Data-Service, Data Dos, Overbilling, Voice Muted Attacks (<u>Abuse VoLTE signaling bearer</u>)		
-  		<img src="/assets/images/projects/CCS15-attack.jpg" alt="VoLTE Attack" width="650" />
+  		<img src="{{site.baseurl}}assets/images/projects/CCS15-attack.jpg" alt="VoLTE Attack" width="650" />
   		<br>
-  	<div class="jumbotron"><b>Demo 1: </b><a href="/assets/images/projects/free-data-service.mp4">[Free data service video]</a> <font color="red">Note that we demostrate free data service attack through a Skype conference call.
+  	<div class="jumbotron"><b>Demo 1: </b><a href="{{site.baseurl}}assets/images/projects/free-data-service.mp4">[Free data service video]</a> <font color="red">Note that we demostrate free data service attack through a Skype conference call.
     The IP traffic produced by other non-Skype applications running in background is still charged by carriers.</font>  	
         <!--<video width="780" controls><source src="myfiles/free-data-service.mp4" type="video/mp4"></video>-->
       <br>
-      <b>Demo 2:</b><a href="/assets/images/projects/mute_voice_attack.mp4">[Voice muted attack video]</a> 
+      <b>Demo 2:</b><a href="{{site.baseurl}}assets/images/projects/mute_voice_attack.mp4">[Voice muted attack video]</a> 
         	          
   	</div>
   </li>    
 	<li><b>Media report</b> </li>
   		<a href="http://www.theverge.com/2015/10/22/9594128/volte-vulnerability-attack-verizon-att-tmobile">
-  			<img src="/assets/images/projects/volte-news.png" width="750" />
+  			<img src="{{site.baseurl}}assets/images/projects/volte-news.png" width="750" />
   		</a>
 	</ul>
 	

@@ -56,18 +56,18 @@ The accounting of data usage is the most important functionality in the manageme
 
     <ul class="subitem">
   	<li><b>We pay for what we never get</b> (<u>User is overcharged while signal strength gets worse</u>)</li>
-  		<img src="/assets/images/projects/mobicom12-overcharged.jpg" width="750" />
+  		<img src="{{site.baseurl}}assets/images/projects/mobicom12-overcharged.jpg" width="750" />
   		<br>
   		
   			
    	<li><b>We pay nothing for what we get</b> (<u>Carriers does not charge DNS traffic (UDP:53) towards Internet at all</u>)</li>
-  		<img src="/assets/images/projects/mobicom12-free.jpg" width="750" />
+  		<img src="{{site.baseurl}}assets/images/projects/mobicom12-free.jpg" width="750" />
     <li>We pay for mobility (Pay for the packets dropped by carriers during mobility on 13 routes)</li>
-  		<img src="/assets/images/projects/mobisys13-mobility.jpg" width="550" />
+  		<img src="{{site.baseurl}}assets/images/projects/mobisys13-mobility.jpg" width="550" />
 	  
 		<li><b>Media report</b> </li>
 			<a href="http://www.theverge.com/2012/9/20/3361904/wireless-data-carrier-overcharging-ucla-study">
-  		<img src="/assets/images/projects/mobicom12-news.jpg" width="750" />
+  		<img src="{{site.baseurl}}assets/images/projects/mobicom12-news.jpg" width="750" />
   	</a>
   	 		
 	</ul>

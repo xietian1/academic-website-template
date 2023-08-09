@@ -4,21 +4,31 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
 <style>
-.navbar-toggler {
-  color:white;
-  border: var(--bs-border-width) solid white;
-  margin-right: 0.5rem;
-  margin-left: 0.5rem;
+
+.custom-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
 }
 
+.custom-toggler.navbar-toggler {
+  border-color: rgb(255,255,255);
+} 
+
+.navbar-toggler:hover, .navbar-toggler:focus {
+  color: white;
+}
 
 .collapse ul li a{
   color:white;
 }
 
-.navbar-nav {
+/* .navbar-nav {
   --bs-nav-link-color: white;
+} */
+
+.nav-link {
+  color: white;
 }
+
 
 .navbar-brand{ 
   color:white;
@@ -27,7 +37,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 .navbar{
   border-bottom: 3px solid #F2A900;
-  --bs-navbar-toggler-icon-bg: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.55%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+  /* --bs-navbar-toggler-icon-bg: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.55%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e"); */
 }
 </style>
 
@@ -37,7 +47,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Michigan_State_University_seal.svg.png" width="30" height="30" style="margin-right:5px" class="d-inline-block align-top" alt="">
         {{ site.title | escape }}
       </a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
+      <button class="navbar-toggler custom-toggler" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
       </button>
       

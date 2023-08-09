@@ -30,7 +30,7 @@ pre{
 
 ## Selected Publications
 
-<a href="/complete-publications">full list</a>
+<a href="{{site.baseurl}}/complete-publications">full list</a>
 
 <div class="container">
 ### Journal/Magazine Publications
