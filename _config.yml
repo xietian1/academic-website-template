@@ -1,8 +1,8 @@
 # Site settings
 title: SNMS Lab
 description: Academic webpage of SNMS Lab
-baseurl: ""
-url: ""
+baseurl: "/snms-lab-web/"
+url: "https://xietian1.github.io"
 
 # Google analytics ID: Uncomment and your own, if you like
 # google_analytics: XX
