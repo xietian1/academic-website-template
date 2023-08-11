@@ -1,2 +1,55 @@
-- name: Example Grant Here
-- name: Example Grant Here
+- title: anku2018grant
+  contents: >
+    Mobile communication apparatus having anti-theft and auto-notification functions,<br> 
+    Anku Jain, Amit Kumar, Guan-Hua Tu, <br>
+    Patent Number: US <a href="/papers/pat10064050.pdf">10,064,050</a>, August 2018.
+  selected: true
+
+- title: anku2016grant
+  contents: > 
+    Mobile communication apparatus having anti-theft and auto-notification functions,<br>
+    Anku Jain, Amit Kumar, Guan-Hua Tu,<br>
+    Patent Number: US <a href="/papers/pat9241058.pdf">9,241,058</a>, January 2016.
+  selected: true
+
+- title: anku2015
+  selected: true
+  contents: > 
+    Mobile communication apparatus having anti-theft and auto-notification functions,<br>
+    Anku Jain, Amit Kumar, Guan-Hua Tu, <br>
+    Patent Number: US <a href="/papers/pat9160830.pdf">9,160,830</a>, October 2015.
+
+- title: tu2010method
+  selected: true
+  contents: > 
+    Method and mobile apparatus of receiving a multimedia message, <br> 
+    Guan-Hua Tu, J.-C Wang, <br>
+    Patent number: US <a href="/papers/pat7835758.pdf">7,835,758</a>, November, 2010.
+
+- title: tu2010message
+  selected: true
+  contents: > 
+    Messaging service interoperability methods and related devices, <br> 
+    Kuan-Hua Tu, J.-C Wang, <br>
+    Patent number: US <a href="/papers/pat7685291.pdf">7,685,291</a>, May, 2010.
+
+- title: tu2009
+  selected: true
+  contents: > 
+    Mobile communication apparatus having anti-theft and auto-notification functions,<br>
+    Guan-Hua Tu,<br>
+    Patent Number: US <a href="/papers/pat7574235.pdf">7,574,235</a>, August 2009.
+
+- title: tu2009method
+  selected: true
+  contents: > 
+    Method and system for serverless VOIP service in personal communication network, <br>
+    Guan-Hua Tu, <br>
+    Patent Number: US <a href="/papers/pat7519075.pdf">7,519,075</a>, April, 2009.
+
+- title: tu2008synchronization
+  selected: true
+  contents: > 
+    An Overflow Control Mechanism for Frame Synchronization of Base Station in Wireless Communication Systems, <br> 
+    Phone Lin, Y.-B. Lin, Guan-Hua Tu, and R.-G Cheng, <br>
+    Patent Number: US Patent: <a href="/papers/pat7359356.pdf">7,359,356</a>, August 2008.

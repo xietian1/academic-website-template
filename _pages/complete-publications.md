@@ -13,6 +13,9 @@ permalink: /complete-publications/
     margin-top:10px;
     margin-bottom:30px;
 }
+ul {
+    margin-bottom: 0.05rem;
+}
 pre{
     white-space: pre-wrap;  
     white-space: -moz-pre-wrap; 
@@ -24,6 +27,7 @@ pre{
 .btn {
     font-size: 0.75rem;
     padding: 0.1rem 0.75rem;
+    margin-top: 0;
 }
 </style>
 
@@ -37,10 +41,10 @@ pre{
 <div class="container">
 ### Journal/Magazine Publications
 <div style="display: inline-block">
-{% for entry in site.data.papers-grants %}
+{% for entry in site.data.papers %}
 <ul>
 {% if entry.type == "journal"%}
-<li><b>[{{ entry.short-name }}]</b> {{ entry.contents }}</li> 
+<li>{% if entry.short-name %}<b>[{{ entry.short-name }}]</b>{% endif %} {{ entry.contents }}
 
 {% if entry.pdf %}
 <a href="{{ site.url }}{{ site.baseurl }}/papers/{{ entry.pdf }}" target="_blank"><button class="btn btn-success btn-xs">PDF</button></a>
@@ -63,7 +67,7 @@ function toggleBib{{entry.title}}(parameter) {
 }
 </script>
 {% endif %}
-
+</li> 
 {% endif %}
 </ul>
 {% endfor %}
@@ -76,10 +80,10 @@ function toggleBib{{entry.title}}(parameter) {
 <div class="container">
 ### Conferences Publications
 <div style="display: inline-block">
-{% for entry in site.data.papers-grants %}
+{% for entry in site.data.papers %}
 <ul>
 {% if entry.type == "conference"%}
-<li><b>[{{ entry.short-name }}]</b> {{ entry.contents }}</li> 
+<li>{% if entry.short-name %}<b>[{{ entry.short-name }}]</b>{% endif %} {{ entry.contents }}
 
 {% if entry.pdf %}
 <a href="{{ site.url }}{{ site.baseurl }}/papers/{{ entry.pdf }}" target="_blank"><button class="btn btn-success btn-xs">PDF</button></a>
@@ -102,7 +106,10 @@ function toggleBib{{entry.title}}(parameter) {
 }
 </script>
 {% endif %}
-
+{% if entry.slide %}
+<a href="{{ site.url }}{{ site.baseurl }}/papers/{{ entry.slide }}" target="_blank"><button class="btn btn-info btn-xs">Slides</button></a>
+{% endif %}
+</li> 
 {% endif %}
 </ul>
 {% endfor %}
@@ -118,11 +125,8 @@ function toggleBib{{entry.title}}(parameter) {
 ### US Patents (Granted)
 <div style="display: inline-block">
 <ol>
-{% for entry in site.data.papers-grants %}
-{% if entry.type == "grant"%}
+{% for entry in site.data.grants %}
 <li>{{ entry.contents }}</li> 
-{% endif %}
-
 {% endfor %}
 </ol>
 </div>

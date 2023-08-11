@@ -1,0 +1,501 @@
+#   **** Data struct **** (Please add the newest paper at the beginning. Journal and conferences can be mixed added here)
+# - title: Your Paper Title
+#   contents: >
+#     CONTENTS you want to show
+#   selected: true/false to show as selected paper
+#   short-name: e.g., GetMobile'23
+#   type: "journal" or "conference"
+#   bibtex: |
+#       BIB CONTENT
+#   pdf: Your PDF File Name
+#   slide: Your Slide File Name
+
+
+- title: hu23getmobile
+  contents: >
+    Yiwen Hu, Min-Yue Chen, Guan-Hua Tu, Chi-Yu Li, Sihan Wang, Jingwen Shi, Tian Xie, Xiao Li, Chunyi Peng, Zhaowei Tan, Songwu Lu, "Unveiling the Insecurity of Operational Cellular Emergency Services (911): Vulnerabilities, Attacks, and Countermeasures," an invited paper to <i>ACM GetMobile: Mobile Computing and Communications</i>, <b><font color="darkred">GetMobile Research Highlights</font></b>.
+  selected: true
+  short-name: GetMobile'23
+  type: "journal"
+  bibtex: |
+      @article{hu2023unveiling,
+      title={Unveiling the Insecurity of Operational Cellular Emergency Services (911): Vulnerabilities, Attacks, and Countermeasures},
+      author={Hu, Yiwen and Chen, Min-Yue and Tu, Guan-Hua and Li, Chi-Yu and Wang, Sihan and Shi, Jingwen and Xie, Tian and Xiao, Li and Peng, Chunyi and Tan, Zhaowei and others},
+      journal={GetMobile: Mobile Computing and Communications},
+      volume={27},
+      number={1},
+      pages={39--43},
+      year={2023},
+      publisher={ACM New York, NY, USA}}
+
+
+
+
+- title: lu22ton
+  contents: >
+    Yu-Han Lu, Sandy Hsin-Yu Hsiao, Chi-Yu Li, Yi-Chen Hsieh, Po-Yi Chou, Yao-Yu Li, Tian Xie, and Guan-Hua Tu,
+    "Insecurity of Operational IMS Call Systems: Vulnerabilities, Attacks, and Countermeasures,"
+    Accepted by <i>IEEE/ACM Transactions on Networking</i>, to appear (Impact Factor:3.56).
+  selected: true
+  short-name: ToN'22
+  type: "journal"
+  bibtex: |
+    @article{lu2022insecurity,
+    title={Insecurity of Operational IMS Call Systems: Vulnerabilities, Attacks, and Countermeasures},
+    author={Lu, Yu-Han and Hsiao, Sandy Hsin-Yu and Li, Chi-Yu and Hsieh, Yi-Chen and Chou, Po-Yi and Li, Yao-Yu and Xie, Tian and Tu, Guan-Hua},
+    journal={IEEE/ACM Transactions on Networking},
+    volume={31},
+    number={2},
+    pages={800--815},
+    year={2022},
+    publisher={IEEE}
+    }
+
+- title: xie2021mpkix
+  contents: >
+    Tian Xie, Sihan Wang, Xinyu Lei, Jingwen Shi, Guan-Hua Tu, and Chi-Yu Li, "MPKIX: Towards More Accountable and Secure Internet Application Services via Mobile Networked Systems," Accepted by <i>IEEE Transactions on Mobile Computing</i>, to appear (Impact Factor:5.57).
+  selected: true
+  short-name: TMC'22
+  type: "journal"
+  bibtex: |
+    @article{lu2022insecurity,
+    title={Insecurity of Operational IMS Call Systems: Vulnerabilities, Attacks, and Countermeasures},
+    author={Lu, Yu-Han and Hsiao, Sandy Hsin-Yu and Li, Chi-Yu and Hsieh, Yi-Chen and Chou, Po-Yi and Li, Yao-Yu and Xie, Tian and Tu, Guan-Hua},
+    journal={IEEE/ACM Transactions on Networking},
+    volume={31},
+    number={2},
+    pages={800--815},
+    year={2022},
+    publisher={IEEE}
+    }
+  pdf: Xie-TMC-MPKIX-21.pdf
+
+
+- title: lin2022jiot
+  contents: >
+    Chi-Lun Lin, Wen-Jia Chang, and Guan-Hua Tu, "Wi-Fi Based Tracking of Human Walking for Home Health Monitoring," <i>IEEE Internet of Things Journal</i>, vol. 9, no. 11, pp. 8935-8942, June 1, 2022 (Impact Factor: 9.59). 
+  selected: true
+  type: "journal"
+  short-name: JIoT'22
+  bibtex: |
+    ss
+
+
+- title: xie2021wifi
+  contents: >
+    Tian Xie, Guan-Hua Tu, Bangjie Yin, Chi-Yu Li, Chunyi Peng, Mi Zhang, Hui Liu, and Xiaoming Liu, "The Untold Secrets of WiFi-Calling Services: Vulnerabilities, Attacks, and Countermeasures," <i>IEEE Transactions on Mobile Computing</i>, Volume: 20, Issue: 11, pp. 3131 - 3147, Nov. 1 2021 (Impact Factor:5.57).
+  selected: true
+  type: "journal"
+  short-name: TMC'21
+  pdf: Xie-WiFi-calling-TMC-2020
+  bibtex: |
+    ss
+
+- title: li2018ton
+  contents: >
+    Yuanjie Li, Chunyi Peng, Haotian Deng, Zengwen Yuan, Guan-Hua Tu, Jiayao Li, and Songwu Lu, "Device-Customized Multi-Carrier Network Access on Commodity Smartphones," <i>IEEE/ACM Transactions on Networking</i>, vol. 26, no. 6, pp. 2542-2555, Dec. 2018 (Impact Factor:3.56).
+  selected: true
+  type: "journal"
+  short-name: ToN'18
+  pdf: Yuanjie-ToN18.pdf
+  bibtex: |
+    ss
+
+
+- title: tu2016ton
+  contents: >
+    Guan-Hua Tu, Yuanjie Li, Chunyi Peng, Chi-Yu Li, and Songwu Lu, "Detecting Problematic Control-Plane Protocol Interactions in Mobile Networks," <i>IEEE/ACM Transactions on Networking </i>, vol. 24, no. 2, pp. 1209-1222, April 2016  (Impact Factor:3.56).
+  selected: true
+  type: "journal"
+  short-name: ToN'16
+  pdf: Yuanjie-ToN18.pdf
+  bibtex: |
+    ss
+
+
+- title: tu2016ton
+  contents: >
+    Guan-Hua Tu, Yuanjie Li, Chunyi Peng, Chi-Yu Li, and Songwu Lu, "Detecting Problematic Control-Plane Protocol Interactions in Mobile Networks," <i>IEEE/ACM Transactions on Networking </i>, vol. 24, no. 2, pp. 1209-1222, April 2016  (Impact Factor:3.56).
+  selected: true
+  type: "journal"
+  short-name: ToN'16
+  pdf: Yuanjie-ToN18.pdf
+  bibtex: |
+    ss
+
+- title: tu2006wireless
+  contents: >
+    Phone Lin and Guan-Hua Tu, "An Improved GGSN Failure Restoration Mechanism for UMTS," Springer Wireless Networks, Volume: 12, Issues: 1, pp. 91-103, February 2006 (Impact Factor: 2.62).
+  selected: false
+  type: "journal"
+
+
+
+- title: tu2005communcations
+  contents: >
+    S.-M. Cheng, Phone Lin, Guan-Hua Tu, L.-C. Fu, and C.-F Liang, "An Intelligent GGSN Dispatching Mechanism for UMTS," <i>Elsevier Computer Communications</i>, Volume: 28, Issue: 8, pp. 947-955, May 2005 (Impact Factor: 2.82).
+  selected: false
+  type: "journal"
+
+- title: tu2002short
+  contents: >
+    Guan-Hua Tu, Short Message Service Programming for Wireless Internet, <br> Chapters 3 and 4, Functionalities of Short Message Service Gateway, ISBN957-8675-83-6, February 2002
+  selected: false
+  type: "journal"
+
+
+
+- title: hu22mobicom
+  contents: >
+    Yiwen Hu, Min-Yue Chen, Guan-Hua Tu, Chi-Yu Li, Sihan Wang, Jingwen Shi, Tian Xie, Xiao Li, Chunyi Peng, Zhaowei Tan, Songwu Lu, "Uncovering Insecure Designs of Cellular Emergency Services (911)," Accepted by <i>Proceedings of ACM the 28th Annual International Conference On Mobile Computing And Networking (MobiCom) 2022,</i>
+    October 17- October 21, 2022, Sydney, Australia (Acceptance rate: 56/314 = 17.83%), <b><font color="darkred"><a href="https://www.cse.msu.edu/~ghtu/911-award.png"> Best Community Paper Award Runner-Up</a>, AT&amp;T Security Award</font></b>.
+  selected: true
+  type: "conference"
+  short-name: MobiCom'22
+  pdf: Hu-MobiCom22.pdf
+  bibtex: |
+    @inproceedings{10.1145/3495243.3560534,
+    author = {Hu, Yiwen and Chen, Min-Yue and Tu, Guan-Hua and Li, Chi-Yu and Wang, Sihan and Shi, Jingwen and Xie, Tian and Xiao, Li and Peng, Chunyi and Tan, Zhaowei and Lu, Songwu},
+    title = {Uncovering Insecure Designs of Cellular Emergency Services (911)},
+    year = {2022},
+    isbn = {9781450391818},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi-org.proxy2.cl.msu.edu/10.1145/3495243.3560534},
+    doi = {10.1145/3495243.3560534},
+    pages = {703-715},
+    numpages = {13},
+    keywords = {cellular networks, 911 (9-1-1), security, emergency services},
+    location = {Sydney, NSW, Australia},
+    series = {MobiCom '22}
+    }
+
+
+- title: wang21mobicom
+  contents: >
+    Sihan Wang, Guan-Hua Tu, Xinyu Lei, Tian Xie, Chi-Yu Li, Po-Yi Chou, Fucheng Hsieh, Yiwen Hu, Li Xiao, and Chunyi Peng, "Insecurity of Operational Cellular IoT Service: New Vulnerabilities, Attacks, and Countermeasures," <i>Proceedings of ACM the 27th Annual International Conference On Mobile Computing And Networking (MobiCom) 2021,</i> March 28 - April 1, 2022, New Orleans, United States, pp. 437-450 (Acceptance rate: 59/297 = 19.9%).
+  selected: true
+  type: "conference"
+  short-name: MobiCom'22
+  pdf: Wang-Mobicom21.pdf
+  bibtex: |
+   @inbook{10.1145/3447993.3483239,
+    author = {Wang, Sihan and Tu, Guan-Hua and Lei, Xinyu and Xie, Tian and Li, Chi-Yu and Chou, Po-Yi and Hsieh, Fucheng and Hu, Yiwen and Xiao, Li and Peng, Chunyi},
+    title = {Insecurity of Operational Cellular IoT Service: New Vulnerabilities, Attacks, and Countermeasures},
+    year = {2021},
+    isbn = {9781450383424},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi-org.proxy2.cl.msu.edu/10.1145/3447993.3483239},
+    abstract = {More than 150 cellular networks worldwide have rolled out massive IoT services such as smart metering and environmental monitoring. Such cellular IoT services share the existing cellular network architecture with non-IoT (e.g., smartphone) ones. When they are newly integrated into the cellular network, new security vulnerabilities may happen from imprudent integration. In this work, we explore the security vulnerabilities of the cellular IoT from both system-integrated and service-integrated aspects. We discover five vulnerabilities spanning cellular standard design defects, network operation slips, and IoT device implementation flaws. Threateningly, they allow an adversary to remotely identify IP addresses and phone numbers assigned to cellular IoT devices and launch data/text spamming attacks against them. We experimentally validate these vulnerabilities and attacks with three major U.S. IoT carriers. The attack evaluation result shows that the adversary can raise an IoT data bill by up to $226 with less than 120 MB spam traffic and increase an IoT text bill at a rate of $5 per second; moreover, cellular IoT devices may suffer from denial of IoT services. We finally propose, prototype, and evaluate recommended solutions.},
+    booktitle = {Proceedings of the 27th Annual International Conference on Mobile Computing and Networking},
+    pages = {437-450},
+    numpages = {14}
+    }
+
+- title: lei21codyspy
+  contents: >
+    Xinyu Lei, Guan-Hua Tu, Tian Xie, and Sihan Wang,
+    "BFastPay: a Routing-free Protocol for Fast Payment in Bitcoin Network," <i>Proceedings of the 11th ACM Conference on Data and Application Security and Privacy (CODASPY) 2021,</i>	April 26-28, 2021, taking place virtually, pp. 77-87.
+  selected: true
+  type: "conference"
+  short-name: CodaSpay'21
+  pdf: Lei-Codaspy21.pdf
+  bibtex: |
+    @inproceedings{10.1145/3422337.3447823,
+    author = {Lei, Xinyu and Tu, Guan-Hua and Xie, Tian and Wang, Sihan},
+    title = {BFastPay: A Routing-Free Protocol for Fast Payment in Bitcoin Network},
+    year = {2021},
+    isbn = {9781450381437},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi-org.proxy2.cl.msu.edu/10.1145/3422337.3447823},
+    doi = {10.1145/3422337.3447823},
+    abstract = {Bitcoin is the most popular cryptocurrency which supports payment services via the
+    Bitcoin peer-to-peer network. However, Bitcoin suffers from a fundamental problem.
+    In practice, a secure Bitcoin transaction requires the payee to wait for at least
+    6 block confirmations (one hour) to be validated. Such a long waiting time thwarts
+    the wide deployment of the Bitcoin payment services because many usage scenarios require
+    a much shorter waiting time. In this paper, we propose BFastPay to accelerate the
+    Bitcoin payment validation. BFastPay employs a smart contract called BFPayArbitrator
+    to host the payer's security deposit and fulfills the role of a trusted payment arbitrator
+    which guarantees that a payee always receives the payment even if attacks occur. BFastpay
+    is a routing-free solution that eliminates the requirement for payment routing in
+    the traditional payment routing network (e.g., Lightning Network). The theoretical
+    and experimental results show that BFast is able to significantly reduce the Bitcoin
+    payment waiting time (e.g., from 60 mins to less than 1 second) with nearly no extra
+    operation cost.},
+    booktitle = {Proceedings of the Eleventh ACM Conference on Data and Application Security and Privacy},
+    pages = {77â€“87},
+    numpages = {11},
+    keywords = {bitcoin, smart contract, fast payment, blockchain},
+    location = {Virtual Event, USA},
+    series = {CODASPY '21}
+    }
+
+
+- title: hu21codyspy
+  contents: >
+    Yiwen Hu, Sihan Wang, Guan-Hua Tu, Li Xiao, Tian Xie, Xinyu Lei, and Chi-Yu Li,
+    "Security Threats from Bitcoin Wallet Smartphone Applications: Vulnerabilities, Attacks, and Countermeasures," <i>Proceedings of the 11th ACM Conference on Data and Application Security and Privacy (CODASPY) 2021,</i> April 26-28, 2021, taking place virtually, pp. 89-100.
+  selected: true
+  type: "conference"
+  short-name: CodaSpay'21
+  pdf: Hu-Codaspy21.pdf
+  bibtex: |
+    @inproceedings{10.1145/3422337.3447832,
+    author = {Hu, Yiwen and Wang, Sihan and Tu, Guan-Hua and Xiao, Li and Xie, Tian and Lei, Xinyu and Li, Chi-Yu},
+    title = {Security Threats from Bitcoin Wallet Smartphone Applications: Vulnerabilities, Attacks, and Countermeasures},
+    year = {2021},
+    isbn = {9781450381437},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi-org.proxy2.cl.msu.edu/10.1145/3422337.3447832},
+    doi = {10.1145/3422337.3447832},
+    abstract = {Nowadays, Bitcoin is the most popular cryptocurrency. With the proliferation of smartphones
+    and the high-speed mobile Internet, more and more users have started accessing their
+    Bitcoin wallets on their smartphones. Users can download and install a variety of
+    Bitcoin wallet applications (e.g., Coinbase, Luno, Bitcoin Wallet) on their smartphones
+    and access their Bitcoin wallets anytime and anywhere. However, it is still unknown
+    whether these Bitcoin wallet smartphone applications are secure or if they are new
+    attack surfaces for adversaries to attack these application users. In this work, we
+    explored the insecurity of the 10 most popular Bitcoin wallet smartphone applications
+    and discovered three security vulnerabilities. By exploiting them, adversaries can
+    launch various attacks including Bitcoin deanonymization, reflection and amplification
+    spamming, and wallet fraud attacks. To address the identified security vulnerabilities,
+    we developed a phone-side Bitcoin Security Rectifier to secure Bitcoin wallet smartphone
+    application users. The developed rectifier does not require any modifications to current
+    wallet applications and is compliant with Bitcoin standards.},
+    booktitle = {Proceedings of the Eleventh ACM Conference on Data and Application Security and Privacy},
+    pages = {89â€“100},
+    numpages = {12},
+    keywords = {blockchain, mobile networks, bitcoin wallets, security},
+    location = {Virtual Event, USA},
+    series = {CODASPY '21}
+    }
+
+
+- title: lu20mobicom
+  contents: >
+    Yu-Han Lu, Chi-Yu Li, Yao-Yu Li, Sandy Hsin-Yu Hsiao, Tian Xie, Guan-Hua Tu, and Wei-Xun Chen, "Ghost Calls from Operational 4G Call Systems: IMS Vulnerability, Call DoS Attack, and Countermeasure," <i>Proceedings of ACM the 26th Annual International Conference On Mobile Computing And Networking (MobiCom) 2020,</i> Sep.21-25, 2020, London, United Kingdom, pp. 1-14 (Acceptance rate: 62/384 = 16.15%).
+  selected: true
+  type: "conference"
+  short-name: MobiCom'20
+
+
+- title: lei20mobisys
+  contents: >
+    Xinyu Lei, Guan-Hua Tu, Chi-Yu Li, Tian Xie, and Mi Zhang, "SecWIR: Securing Smart Home IoT Communications via Wi-Fi Routers with Embedded Intelligence," <i>Proceedings of the 18th ACM International Conference on Mobile Systems, Applications, and Service (MobiSys) 2020,</i> June 16-19, 2020, Toronto, Canada, pp. 260-272 (Acceptance rate: 34/175 = 19.4%).
+  selected: true
+  type: "conference"
+  short-name: MobiSys'20
+  pdf: Lei-Mobisys20.pdf
+  bibtex: |
+    @inproceedings{10.1145/3386901.3388941,
+    author = {Lei, Xinyu and Tu, Guan-Hua and Li, Chi-Yu and Xie, Tian and Zhang, Mi},
+    title = {SecWIR: Securing Smart Home IoT Communications via Wi-Fi Routers with Embedded Intelligence},
+    year = {2020},
+    isbn = {9781450379540},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3386901.3388941},
+    doi = {10.1145/3386901.3388941},
+    booktitle = {Proceedings of the 18th International Conference on Mobile Systems, Applications, and Services},
+    pages = {260–272},
+    numpages = {13},
+    keywords = {security, wi-fi, smart home, IoT},
+    location = {Toronto, Ontario, Canada},
+    series = {MobiSys ’20}
+    }
+
+
+- title: lei20cns
+  contents: >
+    Xinyu Lei, Guan-Hua Tu, Alex X. Liu, and Xie Tian, "Fast and Secure kNN Query Processing in Cloud Computing," <i>Proceedings of IEEE Conference on Communications and Network Security (CNS) 2020,</i> June 29 - July 1, 2020, Virtual conference, pp. 1-9 (Acceptance rate: 43/151 = 28.4%). 
+  selected: true
+  type: "conference"
+  short-name: CNS'20
+
+- title: lei20ICDCS
+  contents: >
+    Xinyu Lei, Tian Xie, Guan-Hua Tu, and Alex X. Liu, "An Inter-blockchain Escrow Approach for Fast Bitcoin Payment," <i>Proceedings of IEEE the 40th International Conference on Distributed Computing Systems (ICDCS), 2020,</i> July 8–10, 2020, Singapor, pp. 1201-1202 (Acceptance rate: 184/568: 32.39%).
+  selected: false
+  type: "conference"
+  short-name: ICDCS'20
+
+
+- title: lei19icde
+  contents: >
+    Xinyu Lei, Alex X. Liu, Rui Li, and Guan-Hua Tu, "SecEQP: A Secure and Efficient Scheme for SkNN Query Problem over Encrypted Geodata on Cloud," <i>Proceedings of IEEE the 35th International Conference on Data Engineering (ICDE) 2019,</i> April 8-11, 2019, Macau SAR, China, pp. 662-673 (Acceptance rate: 126/470: 26.8%). 
+  selected: true
+  type: "conference"
+  short-name: ICDE'19
+  pdf: Lei-ICDE19.pdf
+
+- title: xie19ssci
+  contents: >
+    Tian Xie, Sihan Wang, Guan-Hua Tu, Chi-Yu Li, and Xinyu Lei, "Exploring the Insecurity of Google Account Registration Protocol via Model Checking," <i>Proceedings of IEEE Symposium Series on Computational Intelligence (SSCI) 2019,</i> Dec. 6-9, 2019, Xiamen, China, pp. 3087-3096. 
+  selected: false
+  type: "conference"
+  short-name: SSCI'19
+  pdf: Xie-SSCI19.pdf
+  slide: Xie-SSCI19-slides.pdf
+  bibtex: |
+    @INPROCEEDINGS{XieSSCI19,
+      author={Tian Xie and Sihan Wang and Guan-Hua Tu and Chi-Yu Li and Xinyu Lei},
+      booktitle={2019 IEEE Symposium Series on Computational Intelligence (SSCI)},
+      title={Exploring the Insecurity of Google Account Registration Protocol via Model Checking},
+      year={2019},
+      month={Dec},}
+
+- title: xie18cns
+  contents: >
+    Tian Xie, Guan-Hua Tu, Chi-Yu Li, Chunyi Peng, Jaiwei Li, and Mi Zhang,"The Dark Side of Operational Wi-Fi Calling Services,"<i>Proceedings of IEEE Conference on Communications and Network Security (CNS) 2018,</i> May 30 - June 1, 2018, Beijing, China, pp. 1-9 (Acceptance rate: 51/181 = 28.1%). 
+  selected: true
+  type: "conference"
+  short-name: CNS'18
+  pdf: cns18.pdf
+  slide: slides-the-dark-side-of-operational-Wi-Fi-calling-services.pdf
+
+
+- title: lei18cns
+  contents: >
+    Xinyu Lei, Guan-Hua Tu, Alex Liu, Chi-Yu Li, and Tian Xie, "The Insecurity of Home Digital Voice Assistants - Vulnerabilities, Attacks and Countermeasures," <i>Proceedings of IEEE Conference on Communications and Network Security (CNS) 2018,</i> May 30 - June 1, 2018, Beijing, China, pp. 1-9 (Acceptance rate: 51/181 = 28.1%). 
+  selected: true
+  type: "conference"
+  short-name: CNS'18
+  pdf: cns-Alexa.pdf
+
+
+- title: li18hotedge
+  contents: >
+    Chi-Yu Li, Hsueh-Yang Liu, Po-Hao Huang, Hsu-Tung Chien, Guan-Hua Tu, Pei-Yuan Hong, and Ying-Dar Lin, "Mobile Edge Computing Platform Deployment in 4G LTE Networks: A Middlebox Approach," <i>Proceedings of USENIX Workshop on Hot Topics in Edge Computing (HotEdge) 2018,</i> July 10, 2018 BOSTON, MA, USA, pp. 1-6.
+  selected: false
+  type: "conference"
+  short-name: HotEdge'18
+
+
+- title: xieICC18
+  contents: >
+    Tian Xie, Chi-Yu Li, Jiliang Tang, and Guan-Hua Tu, "How Voice Service Threatens Cellular-connected IoT Devices in the Operational 4G LTE Networks," <i>Proceedings of IEEE International Conference on Communications (ICC), 2018,</i> May 20-24, 2018, Kansas City, MO, USA, pp. 1-6. 
+  selected: false
+  type: "conference"
+  short-name: ICC'18
+  pdf: Xie-ICC18.pdf
+
+
+- title: xieICC18
+  contents: >
+    Chi-Yu Li, Giovanni Salinas, Po-Hao Huang, Guan-Hua Tu, Guo-Huang Hsu, and Tien-Yuan Hsieh, "V2PSense: Enabling Cellular-based V2P Collision Warning Service Through Mobile Sensing,"	<i>Proceedings of IEEE International Conference on Communications (ICC), 2018,</i> May 20-24, 2018, Kansas City, MO, USA, pp. 1-6. 
+  selected: false
+  type: "conference"
+  short-name: ICC'18
+  pdf: Li-ICC18.pdf
+
+
+- title: tu16ccs
+  contents: >
+    Guan-Hua Tu, Chi-Yu Li, Chunyi Peng, Yuanjie Li, and Songwu Lu, "New Security Threats Caused by IMS-based SMS Service in 4G LTE Networks," <i>Proceedings of the 23rd ACM Conference on Computer and Communications Security (CCS) 2016, </i> October 24-28, 2016, Vienna, Austria, pp. 1118-1130 (Acceptance rate: 137/837 = 16.4%). 
+  selected: true
+  type: "conference"
+  short-name: CCS'16
+  pdf: ccs16.pdf
+  slide: Tu-CCS16-slides.pdf
+
+- title: HotMobile'16
+  contents: >
+    Guan-Hua Tu, Chi-Yu Li, Chunyi Peng, Zengwen Yuan, Yuanjie Li, Xiaohu Zhao, and Songwu Lu, "VoLTE*: A Lightweight Voice Solution to 4G LTE Networks," <i>Proceedings of the 17th International Workshop on Mobile Computing Systems and Applications (ACM HotMobile), 2016,</i> February 23-24, 2016, Florida, USA, pp. 3-8. 
+  selected: false
+  type: "conference"
+  short-name: HotMobile'16
+  pdf: hotmobile16.pdf
+
+
+- title: NSDI'16
+  contents: >
+    Yuanjie Li, Haotian Deng, Chunyi Peng, Zengwen Yuan, Guan-Hua Tu, Jiayao Li, and Songwu Lu, "iCellular: Device-Customized Cellular Network Access on Commodity Smartphones," <i>Proceedings of the 13rd USENIX Symposium on Networked Systems Design and Implementation (NSDI), 2016,</i> March 16-18, 2016, Santa Clara, CA, pp. 643-656 (Acceptance rate: 45/225 = 20%). 
+  selected: true
+  type: "conference"
+  short-name: NSDI'16
+  pdf: Li-NSDI16.pdf
+
+
+- title: CCS'15
+  contents: >
+    Chi-Yu Li*, Guan-Hua Tu* (*:Co-Primary), Chunyi Peng, Zengwen Yuan, Yuanjie Li, Songwu Lu, Xinbing Wang, "Insecurity of Voice Solution VoLTE in LTE Mobile Networks," <i>Proceedings of the 22nd ACM Conference on Computer and Communications Security (CCS) 2015, </i> October 12-16, 2015, Denver, Colorado, USA, pp. 316-327 (Acceptance rate: 128/646 = 19.8%). 
+  selected: true
+  type: "conference"
+  short-name: CCS'15
+  pdf: ccs15.pdf
+  slide: ccs15-slide.pdf
+
+
+- title: CNS'15
+  contents: >
+    Guan-Hua Tu, Chi-Yu Li, Chunyi Peng, and Songwu Lu, "How Voice Call Technology Poses Security Threats in 4G LTE Networks," <i>Proceedings of IEEE Conference on Communications and Network Security (CNS) 2015,</i> October 29-31, San Francisco, CA, USA, pp. 442-450 (Acceptance rate: 48/171 = 28%). 
+  selected: true
+  type: "conference"
+  short-name: CNS'15
+  pdf: cns15.pdf
+  slide: Tu-CNS15-slides.pdf
+
+
+
+- title: SIGCOMM'14
+  contents: >
+    Guan-Hua Tu, Yuanjie Li, Chunyi Peng, Chi-Yu Li, Hongyi Wang, and Songwu Lu, "Control-Plane Protocol Interactions in Cellular Networks," <i>Proceedings of ACM Special Interest Group on Data Communication (SIGCOMM), 2014,</i> August 17-22, 2014, Chicago, Illinois, USA, pp. 223-234 (Acceptance rate: 45/237 = 19.0%). 
+  selected: true
+  type: "conference"
+  short-name: SIGCOMM'14
+  pdf: sigc70-tuA.pdf
+  slide: sigcomm14-slide.pdf
+
+
+- title: CCS'14
+  contents: >
+    Chunyi Peng, Chi-Yu Li, Hongyi Wang, Guan-Hua Tu, and Songwu Lu, "Real Threats to Your Data Bills: Security Loopholes and Defenses in Mobile Data Charging," <i>Proceedings of the 21st ACM Conference on Computer and Communications Security (CCS) 2014, </i> November 3 - 7, 2014, Scottsdale, Arizona, USA, pp. 727-738 (Acceptance rate: 114/585 = 19.5%). 
+  selected: true
+  type: "conference"
+  short-name: CCS'14
+  pdf: ccs14.pdf
+
+
+- title: MobiCom'13
+  contents: >
+    Guan-Hua Tu, Chunyi Peng, Hongyi Wang, Chi-Yu Li, and Songwu Lu, "How Voice Calls Affect Data in Operational LTE Networks," <i>Proceedings of ACM the 19th Annual International Conference On Mobile Computing And Networking (MobiCom) 2013,</i> Sep.30 - Oct. 4, 2013, Miami, Florida, USA, pp. 87-98 (Acceptance rate: 28/208= 13.5%). 
+  selected: true
+  type: "conference"
+  short-name: MobiCom'13
+  pdf: mobicom99-tu.pdf
+  slide: Mobicom13-tu-slide.pdf
+
+
+- title: MobiSys'13
+  contents: >
+    Guan-Hua Tu, Chunyi Peng, Chi-Yu Li, Xingyu Ma, Hongyi Wang, Tao Wang, and Songwu Lu, "Accounting for Roaming Users on Mobile Data Access: Issues and Root Causes," <i>Proceedings of the 11th ACM International Conference on Mobile Systems, Applications, and Service (MobiSys) 2013,</i> June 25-28, 2020, Taipei, Taiwan, pp. 305-318 (Acceptance rate: 33/211= 15.6%). 
+  selected: true
+  type: "conference"
+  short-name: MobiSys'13
+  pdf: Mobisys13.pdf
+  slide: Mobisys13-tu-slide.pdf
+
+
+- title: MobiCom'12
+  contents: >
+    Chunyi Peng*, Guan-Hua Tu* (*:Co-Primary), Chi-Yu Li, and Songwu Lu, "Can We Pay for What We Get in 3G Data Access?," <i>Proceedings of ACM the 18th Annual International Conference On Mobile Computing And Networking (MobiCom) 2012,</i> August 22-26, 2012, Istanbul, Turkey, pp. 113-124 (Acceptance rate: 32/212 = 15.1%). 
+  selected: true
+  type: "conference"
+  short-name: MobiCom'12
+  pdf: mobicom12.pdf
+  slide: Mobisys13-tu-slide.pdf
+
+
+- title: CCS'12
+  contents: >
+    Chunyi Peng, Chi-Yu Li, Guan-Hua Tu, Songwu Lu, and Lixia Zhang, "Mobile Data Charging: New Attacks and Countermeasures," <i>Proceedings of the 19th ACM Conference on Computer and Communications Security (CCS) 2012, </i> Oct. 16-18, 2012, Raleigh, NC, USA, pp. 195-204 (Acceptance rate: 80/423 = 18.9%). 
+  selected: true
+  type: "conference"
+  short-name: CCS'12
+  pdf: ccs12.pdf
+  slide: Peng-CCS12-slides.pdf
+
